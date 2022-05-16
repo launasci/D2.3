@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
 }
+
 body {
   color: #293651;
 }
@@ -11,6 +12,7 @@ body {
   font-size: 22px;
   margin-left: 230px;
 }
+
 .cabecalho {
   margin-left: 570px;
   display: inline-block;
